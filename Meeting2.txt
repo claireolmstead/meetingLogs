@@ -1,0 +1,17 @@
+09/27/2018 Meeting Notes
+
+New idea introduced:
+
+Dog breeding app/web-app which connects motivated dog breeders together based on breed, location, age, and other criteria.
+
+Setting up team repositories and discussing ideas further.
+
+We will vote on 2 main ideas:
+1. Dog Breeding App
+2. News Voting App
+
+3 repositories created:
+1. meetingLogs
+2. projects
+3. milestones
+

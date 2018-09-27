@@ -1,0 +1,8 @@
+
+09/25/18 Meeting
+
+Plan: Website or app to read in stories and/or tweets and people can vote on the most relevant/interesting ones and there will be a chronoligical tab and a rankings tabs.
+
+Chronoligical will allow posts to be voted on and rankings tab will show best posts
+
+We can fill empty databases and then have people vote on whatever is in the databases
