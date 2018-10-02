@@ -1,0 +1,8 @@
+
+10/02/18
+
+Discussed the project plans.
+Finished Milestone 1 writeup.
+We decided to go with the news voting app.
+We will begin working after the next meeting.
+Tasks will be assigned next week for beginning the build.
