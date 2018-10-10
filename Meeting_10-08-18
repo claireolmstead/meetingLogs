@@ -1,0 +1,18 @@
+Meeting notes 10/08/18
+
+Website:
+
+Discussion of features:
+
+	- Chronological Rankings for instance most popular this today, this week, this month.
+	- Limiting liking to 1 per person per tweet
+	- Post bookmarking or likes saved to profile
+	- Profile friends stream 
+Possibility of splitting up into smaller groups to focus on different things
+
+Problem mitigation:;
+
+	- Batch tweets daily instead of constant flow of tweets
+	- Firebase (Log in through google possibly?)
+	
+
