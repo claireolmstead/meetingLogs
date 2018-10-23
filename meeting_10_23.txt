@@ -1,0 +1,25 @@
+Meeting Log October 23, 2018
+
+Discussion topics:
+How interviews have been going so far and what to expect.
+The things that we learned we need to do based on our interviews.
+We talked a lot about pagination and its functionality and the logistics of how we would implement it into our website.
+The security of our website and how to implement that security.
+Checking in on how we are feeling about the workload.
+
+What they have done since the last meeting:
+We got Django set up and working to the point that the website is running locally through Django rather than just the .html file.
+Database made on Heroku with the tables that we discussed the last meeting.
+Research what needs to happen in each of our environments to be on the same page and be viewing the same thing and running the same version.
+The restful for the news API is functioning.
+Prototyping databases in Postgres.
+
+What each person is going to work on before next time:
+Start to make sample data and try to get the front end connected to more.
+Format the webpage based on the newly introduced data.
+Start to connect the webpage with the database.
+Stylize the webpage: implement more design elements.
+
+Obstacles:
+Dealing with a busy schedule and fitting this into it on top of the lab work and all of our midterms and other class loads.
+Learning how to do everything and dealing with errors that we are running into in our code.
