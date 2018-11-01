@@ -1,0 +1,35 @@
+Discussion topics:
+How we are feeling coming out of this week.
+What we have gotten done.
+What we plan on doing this weekend.
+Splitting up work among partners.  Who is going to be working on what.
+Connecting everyone through Heroku.
+Questions that we have on different parts of the project.
+Working through issues that we have when connecting different parts.
+
+What they have done since the last meeting:
+Put sample data into the database.
+Successful
+Helped to visualize
+Now we are able to test the front end with actual data
+We are up and running on Heroku now.
+Connected python to the database
+The front and back are connected through the middle now.
+Can use python to display API data or database data locally
+API data is running through Heroku also.
+Background and some formatting is updated in the CSS file.
+
+What each person is going to work on before next time:
+Likes and dislikes button.
+Users’ page that holds all of the pages that a user has previously liked or disliked.
+More formatting and CSS.
+Finishing up the layout and design of the webpage
+Figuring out how to do the login and other buttons.
+Connecting them to the databases.
+Start writing some code to get things done.
+
+Obstacles:
+There is not a lot of documentation on how to connect postgress to python.
+Figuring out how to do that with the lack of resources available.
+Knowing when to stop and knowing when what we have is what we want to submit.
+Fixing bugs that we don’t know how to fix.
