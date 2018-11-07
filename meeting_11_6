@@ -1,0 +1,26 @@
+Discussion topics:
+Weekly update
+How we are all doing on our pieces of the project
+Updating each other about the meeting that we had with Rohit on Monday
+
+
+
+What they have done since the last meeting:
+Django models are working with the database and python.
+Loading database entries into HTML context.
+Now, it displays an entry from the table on the website.
+Updates made to the HTML and CSS.
+Design elements updated.  Looks more professional.
+Design spans against all pages.
+Extra code removed(cleaned up)
+
+What each person is going to work on before next time:
+Continue to figure out connecting the front and back end and making amendments to it as they come up.
+Figuring out the like/dislike button.
+Make the like and dislike button
+Formatting the webpage to handle many articles.
+
+Obstacles:
+A lot of this requires working together from this point on.
+Getting together to do that will be more of a challenge and will require more time.
+Continuing to deal with the challenges included in the learning curve associated with doing this for the first time.
