@@ -1,0 +1,23 @@
+Discussion topics:
+    Figuring out how to get everything connected and how to have code interact with the databases.
+    Syntax that we need to use to get the info that we want.
+    Working with Django and issues and success that have been coming up.
+    Discussing names for our app.
+    Milestone that is due this weekend.
+
+What they have done since the last meeting:
+    Continuing to work on connecting all aspects of the app.
+    Creating a list of all of the little things that we need to tweak and add onto the html/css/javascript
+        ex) when you type in the password it needs to show up in dots for security.
+    research on Django models
+    looked at Rohit's notes on how to connect db to Django.
+    discussed entering new data from the API with Rohit
+    names for our app were written up and one was singled out.
+
+What each person is going to work on before next time:
+    Continuing with the stuff that we have already started.
+    Move towards the finish.
+
+Obstacles:
+    Staying on task in our scrums
+    understanding things that we are learning for the first time
