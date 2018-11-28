@@ -1,0 +1,14 @@
+conversation:
+  when we want to give our presentation
+  about details of the functionality of the website
+  working on the like button and how to make a like button work likes = likes+1 when pressed.
+  more on working through small details
+
+What we have been working on since last time:
+  figuring out problems with hosting the webpage and checking out the various databades and how they are set up.
+  changing some of the style of the website.
+  adding the like button and working on the functionality of the button.
+
+What we plan to do before next time:
+  figure out the login and sign up connection to the database.
+  continue to learn and exicute the like and dislike buttons
